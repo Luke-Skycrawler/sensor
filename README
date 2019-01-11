@@ -1,0 +1,7 @@
+README
+
+1)Run server.c on linux to listen for connection
+2)Run hype.c on android [NDK]
+
+//Description
+hype runs on android, connects to server running on linux and sends data from acceleration sensor
